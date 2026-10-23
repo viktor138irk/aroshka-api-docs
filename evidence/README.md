@@ -14,3 +14,5 @@
 | 08_kwork_serverexpert_dev_razvivaem_aroshka.png | Заказ serverexpert_dev от 01.10.2026: «Развиваем Aroshka Cloud» |
 | 09_kwork_dima_volvo_aug28.png | Заказ dima_volvo от 28.08.2026 про блокировку аккаунта «службой безопасности» Aroshka |
 | 10_aroshka_account_blocked.png | Блокировка нашего аккаунта Aroshka «за публикацию документации и API на GitHub» |
+| 11_kwork_serverexpert_dev_reviews_first_buyer_dima_volvo.png | Отзывы о serverexpert_dev: самые ранние (4 месяца назад) три отзыва оставил dima_volvo, автор «пользовательских» заказов про aroshka |
+| 12_kwork_syntaxcheck_review_msdone.png | Отрицательный отзыв о syntaxcheck: «подавляющее большинство отзывов с одних и тех же профилей» (фото исполнителя скрыто нами) |
