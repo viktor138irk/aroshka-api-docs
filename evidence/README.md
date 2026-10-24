@@ -23,7 +23,7 @@
 |---|---|
 | 13_aroshka_blog_khakerskiy_razbor.png | Пост «Хакерский разбор» в блоге Aroshka Cloud, копия ghostarchive от 24.10.2026 |
 | 14_aroshka_blog_razbor_no_ref_links.png | Пост «Разбор публикаций»: в описанных заказах реферальных ссылок не было, вознаграждение начислено быть не могло |
-| 15_our_server_log_5.77.195.xx.png | Строки журнала нашего сервера, время UTC, адрес посетителя скрыт частично |
+| 15_our_server_log_masked.png | Строки журнала нашего сервера, время UTC, адрес посетителя скрыт частично, домен сайта заменён на [наш сайт] |
 | 16_kwork_serverexpert_dev_5vds_vs_h200.png | Два заказа serverexpert_dev: пул из 5 VDS (август) и до 8 видеокарт H200 (октябрь) |
 | 17_yandex_serverexpert_dev_moy_proekt.png | Ответ поиска Яндекса: в профиле serverexpert_dev строка «Мой проект: aroshka.cloud», документ от 13.05.2026 |
 | 18_aroshka_blog_post_o_pretenzii.png | Пост сервиса о нашей досудебной претензии, копия ghostarchive от 24.10.2026 |
