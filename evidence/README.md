@@ -16,3 +16,14 @@
 | 10_aroshka_account_blocked.png | Блокировка нашего аккаунта Aroshka «за публикацию документации и API на GitHub» |
 | 11_kwork_serverexpert_dev_reviews_first_buyer_dima_volvo.png | Отзывы о serverexpert_dev: самые ранние (4 месяца назад) три отзыва оставил dima_volvo, автор «пользовательских» заказов про aroshka |
 | 12_kwork_syntaxcheck_review_msdone.png | Отрицательный отзыв о syntaxcheck: «подавляющее большинство отзывов с одних и тех же профилей» (фото исполнителя скрыто нами) |
+
+# Скриншоты к четвёртой части (сняты 24.10.2026)
+
+| Файл | Что на нём |
+|---|---|
+| 13_aroshka_blog_khakerskiy_razbor.png | Пост «Хакерский разбор» в блоге Aroshka Cloud, копия ghostarchive от 24.10.2026 |
+| 14_aroshka_blog_razbor_no_ref_links.png | Пост «Разбор публикаций»: в описанных заказах реферальных ссылок не было, вознаграждение начислено быть не могло |
+| 15_our_server_log_5.77.195.xx.png | Строки журнала нашего сервера, время UTC, адрес посетителя скрыт частично |
+| 16_kwork_serverexpert_dev_5vds_vs_h200.png | Два заказа serverexpert_dev: пул из 5 VDS (август) и до 8 видеокарт H200 (октябрь) |
+| 17_yandex_serverexpert_dev_moy_proekt.png | Ответ поиска Яндекса: в профиле serverexpert_dev строка «Мой проект: aroshka.cloud», документ от 13.05.2026 |
+| 18_aroshka_blog_post_o_pretenzii.png | Пост сервиса о нашей досудебной претензии, копия ghostarchive от 24.10.2026 |
